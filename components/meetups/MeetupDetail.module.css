@@ -1,0 +1,11 @@
+.detail img {
+  width: 100%;
+  border-bottom: 0.5rem solid #77002e;
+}
+
+.detail {
+  text-align: center;
+  border: 0.2rem solid #77002e;
+  border-radius: 2%;
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 250%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
